@@ -19,7 +19,8 @@
     "react-big-calendar": "^1.13.1",
     "date-fns": "^4.1.0",
     "jspdf": "^2.5.1",
-    "jspdf-autotable": "^3.8.2"
+    "jspdf-autotable": "^3.8.2",
+    "tslib": "^2.6.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
