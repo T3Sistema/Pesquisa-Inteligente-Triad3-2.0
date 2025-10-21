@@ -11,17 +11,18 @@
   "dependencies": {
     "@google/genai": "^0.15.0",
     "@supabase/supabase-js": "^2.44.4",
-    "recharts": "^3.3.0",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "react-router-dom": "^7.9.4",
-    "qrcode.react": "^4.2.0",
-    "react-big-calendar": "^1.13.1",
+    "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.8.2",
-    "tslib": "^2.6.3",
-    "clsx": "^2.1.1"
+    "qrcode.react": "^4.2.0",
+    "react": "^19.2.0",
+    "react-big-calendar": "^1.13.1",
+    "react-dom": "^19.2.0",
+    "react-is": "^19.0.0",
+    "react-router-dom": "^7.9.4",
+    "recharts": "^3.3.0",
+    "tslib": "^2.6.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
